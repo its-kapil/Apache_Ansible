@@ -1,4 +1,4 @@
 ---
- - hosts: DevOps
+ - hosts: thirdserver
    roles:
       - { role: roles/uninstall_apache }
