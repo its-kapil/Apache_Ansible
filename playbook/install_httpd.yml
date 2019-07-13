@@ -1,4 +1,4 @@
 ---
- - hosts: ansibleserver
+ - hosts: thirdserver
    roles:
       - { role: roles/deploy_apache }
