@@ -1,2 +1,2 @@
 [thirdserver]
-172.31.82.3
+172.31.82.3  ansible_ssh_user=ansible
